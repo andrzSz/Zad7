@@ -1,0 +1,1 @@
+java -cp Z7Application-1.0.jar com.pierwsze.liczby.PierwszeLiczby 2 100
